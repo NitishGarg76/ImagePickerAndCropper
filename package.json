@@ -1,0 +1,20 @@
+{
+  "name": "react-native-image-picker-and-cropper",
+  "version": "0.11.0",
+  "description": "A React Native package for image cropping on iOS.",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "image-cropper",
+    "iOS"
+  ],
+  "author": "Nitish Garg",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.60.0"
+  },
+  "dependencies": {
+   
+  }
+}
